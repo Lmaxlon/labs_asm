@@ -1,0 +1,4 @@
+aarch64-run prog text.txt
+aarch64-debug prog
+qemu-aarch64-static prog
+x/20gw register
